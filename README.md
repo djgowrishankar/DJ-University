@@ -78,10 +78,4 @@ Student can also join or leave a Paper(Subject).
 - [Axios](https://axios-http.com/)
 - [README Editor](readme.so)
 
-## Feedback
 
-If you have any feedback, please reach out to me at [here](mailto:afthabiqbal123@gmail.com)
-
-## Related
-
-[KOLLEGE API](https://github.com/afthab-i/4.4-Kollege_API)
