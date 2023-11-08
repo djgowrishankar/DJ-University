@@ -1,8 +1,6 @@
-# KOLLEGE
+# DJ_University
 
-[kollege.onrender.com](https://kollege.onrender.com)
-
-A College Based Data Management System.
+A Student Record Management System.
 
 - There are three roles: Teacher, HOD and Student.
 
